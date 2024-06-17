@@ -1,7 +1,5 @@
 package four_one_three
 
-import java.util.Objects.nonNull
-
 /*
     null 값을 대입하려면 명시적으로 null이 될 수 있느 (nullable) 변수로 선언해야 함
     코틀린은 null을 대입할 수 없는 변수와 있는 변수로 구분하여 사용함
